@@ -1,0 +1,5 @@
+This repository contains some code illustrations for my talk "Introduction to Programming with Asynchronous I/O".
+
+To run the web crawlers (spider1-4.py) you'll need BeautifulSoup installed.  To test these against a slow server of static content (slowserver.py) you'll need Twisted.  Details of versions of both are in requirements.txt.
+
+Slides to follow.
